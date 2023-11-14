@@ -27,3 +27,13 @@ The final analysis made use of cluster graphs to compare he original data to the
 - PCA
 - hvPlot
 
+## Resources:
+Some coding I looked at for inspiration:
+- https://github.com/paocarvajal1912/Crypto_Clustering
+- https://github.com/Asalvs/CryptoClustering
+
+## Acknowledgements:
+I wish to thank my teaching staff:
+- Hunter Hollis
+- Sam Espe
+- Randy Sendek
